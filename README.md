@@ -1,3 +1,5 @@
+deltafish now lives [in a new organization](https://github.com/Delta-Stewardship-Council/deltafish). This repository has been archived.
+
 
 # deltafish
 
